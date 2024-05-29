@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ```json
 {"user_name": "alias1", "content":  "+1"}
-...
+{"user_name": "...", "content": "..."}
 ```
 
 ## 3 修改配置
